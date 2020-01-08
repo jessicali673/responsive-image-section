@@ -28,6 +28,11 @@ section {
   align-items: center;
 }
 
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
 p {
   margin-top: 0;
 }
